@@ -55,7 +55,7 @@
 <p align="center">
   <img src="https://i.ytimg.com/vi/MCbo2ZaTHio/maxresdefault.jpg" width="800" alt="Main UI Screenshot" />
   <br><br>
-  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1ea33a15-1b38-4c31-97d0-7c2eb81ea5dc.jpeg" width="800" alt="SMS Export Feature" />
+  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1ea33a15-1b38-4c31-97d0-7c2eb81ea5dc.jpeg" width="600" alt="SMS Export Feature" />
 </p>
 
 ---
